@@ -1,0 +1,24 @@
+Open Weather API
+43507a432ff38f75f3a2f067a0c89014
+
+
+Google Maps Geocoding API
+AIzaSyDS6Od7olxjnk8dZQKVGMHwdAq-h9vlbfg
+
+
+Gradients:
+
+6PM - 3AM
+['#4d5196', '#0a1b4d']
+
+3AM - 6:AM
+['#37185a', '#a15797']
+
+6AM - 9AM
+['#e07ec5', '#f6a750']
+
+9AM - 3PM
+['#ffd07a', '#ffaf33']
+
+3PM - 6PM
+['#ffa947', '#ff76b5']
